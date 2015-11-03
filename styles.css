@@ -1,0 +1,28 @@
+body{
+background-image: url("http://images7.alphacoders.com/313/313062.jpg");
+}
+
+#title1dude {
+text-align: center;
+    text-decoration: underline;
+    font-family: 'Candal', sans-serif;
+    color: black;
+    text-decoration: solid;
+}
+
+#input1{
+    box-sizing: border-box;
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing: border-box;
+}
+
+#table{
+    text-align: center;
+}
+h4{
+    color: chartreuse;
+}
+b{
+    color: white;
+}
+
